@@ -1,6 +1,6 @@
 {
-  "id": "cloudflare-quick-tunnel",
-  "name": "Cloudflare Tunnel",
+  "id": "cloudflare-quick-tunnel1",
+  "name": "Cloudflare Tunnel1",
   "version": "0.1.0",
   "minAppVersion": "0.17.2",
   "description": "Create an independently authenticated, temporary Cloudflare Quick Tunnel for Dinotty.",
