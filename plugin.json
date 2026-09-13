@@ -1,7 +1,7 @@
 {
   "id": "cloudflare-quick-tunnel1",
   "name": "Cloudflare Tunnel1",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "0.17.2",
   "description": "Create an independently authenticated, temporary Cloudflare Quick Tunnel for Dinotty.",
   "icon": "radio-tower",
@@ -29,7 +29,7 @@
   "bin": {
     "mode": "cli",
     "entries": {
-      "windows-x86_64": "bin/windows-x86_64/dinotty-quick-tunnel-supervisor-0.1.0-p3.exe",
+      "windows-x86_64": "bin/windows-x86_64/dinotty-quick-tunnel-supervisor-0.1.1-p4.exe",
       "linux-x86_64": "bin/linux-x86_64/dinotty-quick-tunnel-supervisor",
       "linux-aarch64": "bin/linux-aarch64/dinotty-quick-tunnel-supervisor",
       "macos-x86_64": "bin/macos-x86_64/dinotty-quick-tunnel-supervisor",
