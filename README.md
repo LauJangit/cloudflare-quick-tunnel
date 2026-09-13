@@ -51,7 +51,7 @@ npm run build
 
 New-Item -ItemType Directory -Force bin/windows-x86_64
 Copy-Item native/target/release/dinotty-quick-tunnel-supervisor.exe `
-  bin/windows-x86_64/dinotty-quick-tunnel-supervisor-0.1.0-p3.exe
+  bin/windows-x86_64/dinotty-quick-tunnel-supervisor-0.1.1-p4.exe
 ```
 
 Then dev-link this directory:

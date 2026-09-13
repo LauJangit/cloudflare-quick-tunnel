@@ -4,7 +4,7 @@
   "targets": {
     "windows-x86_64": {
       "rustTarget": "x86_64-pc-windows-msvc",
-      "entry": "bin/windows-x86_64/dinotty-quick-tunnel-supervisor-0.1.0-p3.exe"
+      "entry": "bin/windows-x86_64/dinotty-quick-tunnel-supervisor-0.1.1-p4.exe"
     },
     "linux-x86_64": {
       "rustTarget": "x86_64-unknown-linux-musl",
